@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Realistic Shadow for Depth -->
+    <path
+        android:fillColor="#1A000000"
+        android:pathData="M54,34c-11,0 -20,9 -20,20s9,20 20,20s20,-9 20,-20S65,34 54,34z" />
+
+    <!-- Main Medical Cross Logo (Matching App Theme) -->
+    <path android:pathData="M70,52h-12v-12c0,-2.21 -1.79,-4 -4,-4s-4,1.79 -4,4v12h-12c-2.21,0 -4,1.79 -4,4s1.79,4 4,4h12v12c0,2.21 1.79,4 4,4s4,-1.79 4,-4v-12h12c2.21,0 4,-1.79 4,-4S72.21,52 70,52z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:centerX="54"
+                android:centerY="54"
+                android:gradientRadius="24"
+                android:type="radial">
+                <!-- Using app's primary and primary_variant colors -->
+                <item android:color="#F57C00" android:offset="0" />
+                <item android:color="#E65100" android:offset="1" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Claymorphic Gloss/Highlight -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M54,42c-6,0 -10,4 -10,10s4,4 10,4s10,-4 10,-10S60,42 54,42z"
+        android:alpha="0.4" />
+
+    <!-- Supportive Element (Medical Pulse Line) -->
+    <path
+        android:strokeColor="#FFAB91"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M38,68 L44,68 L48,60 L54,76 L60,68 L70,68" />
+
+</vector>

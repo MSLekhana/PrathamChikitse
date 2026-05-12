@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name_en": "Snake Bite",
+    "name_kn": "ಹಾವು ಕಚ್ಚು",
+    "steps_en": ["Keep the person calm", "Keep the bitten area still", "Remove tight items like rings", "Call 108 or go to hospital immediately"],
+    "steps_kn": ["ವ್ಯಕ್ತಿಯನ್ನು ಶಾಂತವಾಗಿರಿಸಿ", "ಕಚ್ಚಿದ ಭಾಗವನ್ನು ಚಲಿಸದಂತೆ ಇರಿಸಿ", "ಉಂಗುರಗಳಂತಹ ಬಿಗಿಯಾದ ವಸ್ತುಗಳನ್ನು ತೆಗೆದುಹಾಕಿ", "108 ಗೆ ಕರೆ ಮಾಡಿ ಅಥವಾ ತಕ್ಷಣ ಆಸ್ಪತ್ರೆಗೆ ಹೋಗಿ"],
+    "dos_en": ["Keep limb below heart level", "Note the snake appearance if safe"],
+    "dos_kn": ["ಕೈ ಅಥವಾ ಕಾಲನ್ನು ಹೃದಯಕ್ಕಿಂತ ಕೆಳಗೆ ಇರಿಸಿ", "ಸುರಕ್ಷಿತವಾಗಿದ್ದರೆ ಹಾವಿನ ರೂಪ ಗಮನಿಸಿ"],
+    "donts_en": ["Do not cut the wound", "Do not suck venom", "Do not apply ice"],
+    "donts_kn": ["ಗಾಯವನ್ನು ಕತ್ತರಿಸಬೇಡಿ", "ವಿಷವನ್ನು ಹೀರಬೇಡಿ", "ಐಸ್ ಹಾಕಬೇಡಿ"]
+  },
+  {
+    "id": 2,
+    "name_en": "Heart Attack",
+    "name_kn": "ಹೃದಯಾಘಾತ",
+    "steps_en": ["Call 108 immediately", "Make the person sit comfortably", "Loosen tight clothing", "Keep them calm until help arrives"],
+    "steps_kn": ["ತಕ್ಷಣ 108 ಗೆ ಕರೆ ಮಾಡಿ", "ವ್ಯಕ್ತಿಯನ್ನು ಆರಾಮವಾಗಿ ಕುಳ್ಳಿರಿಸಿ", "ಬಿಗಿಯಾದ ಬಟ್ಟೆಯನ್ನು ಸಡಿಲಿಸಿ", "ಸಹಾಯ ಬರುವವರೆಗೆ ಶಾಂತವಾಗಿರಿಸಿ"],
+    "dos_en": ["Stay with the person", "Monitor breathing"],
+    "dos_kn": ["ವ್ಯಕ್ತಿಯ ಜೊತೆಯಲ್ಲಿರಿ", "ಉಸಿರಾಟ ಗಮನಿಸಿ"],
+    "donts_en": ["Do not let them walk", "Do not give food or drink"],
+    "donts_kn": ["ಅವರನ್ನು ನಡೆಯಲು ಬಿಡಬೇಡಿ", "ಆಹಾರ ಅಥವಾ ಪಾನೀಯ ಕೊಡಬೇಡಿ"]
+  },
+  {
+    "id": 3,
+    "name_en": "Burns",
+    "name_kn": "ಸುಟ್ಟ ಗಾಯ",
+    "steps_en": ["Cool the burn with running water for 20 minutes", "Remove tight items near the burn", "Cover with clean cloth", "Seek medical help for serious burns"],
+    "steps_kn": ["ಸುಟ್ಟ ಭಾಗವನ್ನು 20 ನಿಮಿಷ ಹರಿಯುವ ನೀರಿನಿಂದ ತಂಪಾಗಿಸಿ", "ಸುಟ್ಟ ಭಾಗದ ಹತ್ತಿರದ ಬಿಗಿಯಾದ ವಸ್ತುಗಳನ್ನು ತೆಗೆದುಹಾಕಿ", "ಸ್ವಚ್ಛ ಬಟ್ಟೆಯಿಂದ ಮುಚ್ಚಿ", "ಗಂಭೀರ ಸುಟ್ಟ ಗಾಯಕ್ಕೆ ವೈದ್ಯಕೀಯ ಸಹಾಯ ಪಡೆಯಿರಿ"],
+    "dos_en": ["Use cool water", "Keep the area clean"],
+    "dos_kn": ["ತಂಪಾದ ನೀರು ಬಳಸಿ", "ಭಾಗವನ್ನು ಸ್ವಚ್ಛವಾಗಿಡಿ"],
+    "donts_en": ["Do not apply oil", "Do not burst blisters"],
+    "donts_kn": ["ಎಣ್ಣೆ ಹಚ್ಚಬೇಡಿ", "ನೀರಿನ ಗುಳ್ಳೆಗಳನ್ನು ಒಡೆಯಬೇಡಿ"]
+  },
+  {
+    "id": 4,
+    "name_en": "Choking Adult",
+    "name_kn": "ವಯಸ್ಕರಲ್ಲಿ ಉಸಿರುಗಟ್ಟಿಕೆ",
+    "steps_en": ["Ask if the person can cough", "Give 5 back blows", "Give abdominal thrusts if needed", "Call emergency help if breathing stops"],
+    "steps_kn": ["ವ್ಯಕ್ತಿಗೆ ಕೆಮ್ಮಲು ಸಾಧ್ಯವೇ ಎಂದು ಕೇಳಿ", "ಬೆನ್ನಿಗೆ 5 ಬಾರಿ ಹೊಡೆದು ಸಹಾಯ ಮಾಡಿ", "ಅಗತ್ಯವಿದ್ದರೆ ಹೊಟ್ಟೆ ಒತ್ತುವಿಕೆ ಮಾಡಿ", "ಉಸಿರಾಟ ನಿಂತರೆ ತುರ್ತು ಸಹಾಯಕ್ಕೆ ಕರೆ ಮಾಡಿ"],
+    "dos_en": ["Act quickly", "Support the person while helping"],
+    "dos_kn": ["ವೇಗವಾಗಿ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ", "ಸಹಾಯ ಮಾಡುವಾಗ ವ್ಯಕ್ತಿಯನ್ನು ಹಿಡಿದುಕೊಳ್ಳಿ"],
+    "donts_en": ["Do not give water", "Do not put fingers blindly in mouth"],
+    "donts_kn": ["ನೀರು ಕೊಡಬೇಡಿ", "ಬಾಯಿಗೆ ಅಜಾಗರೂಕವಾಗಿ ಬೆರಳು ಹಾಕಬೇಡಿ"]
+  },
+  {
+    "id": 5,
+    "name_en": "Bone Fracture",
+    "name_kn": "ಎಲುಬು ಮುರಿತ",
+    "steps_en": ["Keep the injured part still", "Support with a splint if available", "Apply cold pack wrapped in cloth", "Take to hospital"],
+    "steps_kn": ["ಗಾಯಗೊಂಡ ಭಾಗವನ್ನು ಚಲಿಸದಂತೆ ಇರಿಸಿ", "ಲಭ್ಯವಿದ್ದರೆ ಸ್ಪ್ಲಿಂಟ್‌ನಿಂದ ಬೆಂಬಲ ನೀಡಿ", "ಬಟ್ಟೆಯಲ್ಲಿ ಸುತ್ತಿದ ತಂಪು ಪ್ಯಾಕ್ ಇಡಿ", "ಆಸ್ಪತ್ರೆಗೆ ಕರೆದೊಯ್ಯಿರಿ"],
+    "dos_en": ["Keep patient still", "Support the injured limb"],
+    "dos_kn": ["ರೋಗಿಯನ್ನು ಚಲಿಸದಂತೆ ಇರಿಸಿ", "ಗಾಯಗೊಂಡ ಅಂಗಕ್ಕೆ ಬೆಂಬಲ ನೀಡಿ"],
+    "donts_en": ["Do not straighten the bone", "Do not massage the injury"],
+    "donts_kn": ["ಎಲುಬನ್ನು ಸರಿಪಡಿಸಲು ಪ್ರಯತ್ನಿಸಬೇಡಿ", "ಗಾಯವನ್ನು ಮಸಾಜ್ ಮಾಡಬೇಡಿ"]
+  },
+  {
+    "id": 6,
+    "name_en": "Severe Bleeding",
+    "name_kn": "ತೀವ್ರ ರಕ್ತಸ್ರಾವ",
+    "steps_en": ["Apply firm pressure with clean cloth", "Raise injured part if possible", "Do not remove soaked cloth", "Call 108 if bleeding is heavy"],
+    "steps_kn": ["ಸ್ವಚ್ಛ ಬಟ್ಟೆಯಿಂದ ಗಟ್ಟಿಯಾಗಿ ಒತ್ತಿರಿ", "ಸಾಧ್ಯವಾದರೆ ಗಾಯಗೊಂಡ ಭಾಗವನ್ನು ಮೇಲಕ್ಕೆ ಎತ್ತಿ", "ರಕ್ತದಿಂದ ತೋಯ್ದ ಬಟ್ಟೆಯನ್ನು ತೆಗೆದುಹಾಕಬೇಡಿ", "ರಕ್ತಸ್ರಾವ ಹೆಚ್ಚು ಇದ್ದರೆ 108 ಗೆ ಕರೆ ಮಾಡಿ"],
+    "dos_en": ["Use clean cloth", "Keep pressure on wound"],
+    "dos_kn": ["ಸ್ವಚ್ಛ ಬಟ್ಟೆ ಬಳಸಿ", "ಗಾಯದ ಮೇಲೆ ಒತ್ತಡ ಇಡಿ"],
+    "donts_en": ["Do not touch wound with dirty hands", "Do not remove embedded object"],
+    "donts_kn": ["ಅಶುದ್ಧ ಕೈಗಳಿಂದ ಗಾಯ ಮುಟ್ಟಬೇಡಿ", "ಗಾಯದಲ್ಲಿ ಸಿಲುಕಿರುವ ವಸ್ತು ತೆಗೆದುಹಾಕಬೇಡಿ"]
+  },
+  {
+    "id": 7,
+    "name_en": "Stroke",
+    "name_kn": "ಪಾರ್ಶ್ವವಾಯು",
+    "steps_en": ["Check face drooping", "Check arm weakness", "Check speech difficulty", "Call 108 immediately"],
+    "steps_kn": ["ಮುಖ ವಕ್ರವಾಗಿದೆಯೇ ನೋಡಿ", "ಕೈ ದುರ್ಬಲವಾಗಿದೆಯೇ ನೋಡಿ", "ಮಾತನಾಡಲು ತೊಂದರೆಯಿದೆಯೇ ನೋಡಿ", "ತಕ್ಷಣ 108 ಗೆ ಕರೆ ಮಾಡಿ"],
+    "dos_en": ["Note time symptoms started", "Keep person resting"],
+    "dos_kn": ["ಲಕ್ಷಣಗಳು ಆರಂಭವಾದ ಸಮಯ ಗಮನಿಸಿ", "ವ್ಯಕ್ತಿಯನ್ನು ವಿಶ್ರಾಂತಿಯಲ್ಲಿ ಇರಿಸಿ"],
+    "donts_en": ["Do not give food", "Do not delay hospital care"],
+    "donts_kn": ["ಆಹಾರ ಕೊಡಬೇಡಿ", "ಆಸ್ಪತ್ರೆಗೆ ಹೋಗುವುದನ್ನು ವಿಳಂಬಿಸಬೇಡಿ"]
+  },
+  {
+    "id": 8,
+    "name_en": "Seizure",
+    "name_kn": "ಕಂಪನ / ಫಿಟ್ಸ್",
+    "steps_en": ["Move nearby objects away", "Protect the head", "Turn person to side after seizure", "Call help if seizure lasts more than 5 minutes"],
+    "steps_kn": ["ಹತ್ತಿರದ ವಸ್ತುಗಳನ್ನು ದೂರ ಮಾಡಿ", "ತಲೆಯನ್ನು ರಕ್ಷಿಸಿ", "ಕಂಪನ ನಿಂತ ನಂತರ ವ್ಯಕ್ತಿಯನ್ನು ಬದಿಗೆ ತಿರುಗಿಸಿ", "5 ನಿಮಿಷಕ್ಕಿಂತ ಹೆಚ್ಚು ಮುಂದುವರಿದರೆ ಸಹಾಯಕ್ಕೆ ಕರೆ ಮಾಡಿ"],
+    "dos_en": ["Stay calm", "Time the seizure"],
+    "dos_kn": ["ಶಾಂತವಾಗಿರಿ", "ಕಂಪನದ ಸಮಯ ಗಮನಿಸಿ"],
+    "donts_en": ["Do not hold the person down", "Do not put anything in mouth"],
+    "donts_kn": ["ವ್ಯಕ್ತಿಯನ್ನು ಬಲವಂತವಾಗಿ ಹಿಡಿಯಬೇಡಿ", "ಬಾಯಿಗೆ ಏನನ್ನೂ ಹಾಕಬೇಡಿ"]
+  },
+  {
+    "id": 9,
+    "name_en": "Heat Stroke",
+    "name_kn": "ಉಷ್ಣಾಘಾತ",
+    "steps_en": ["Move person to cool place", "Remove extra clothing", "Cool with wet cloth", "Call medical help if confused or unconscious"],
+    "steps_kn": ["ವ್ಯಕ್ತಿಯನ್ನು ತಂಪಾದ ಸ್ಥಳಕ್ಕೆ ಕರೆದೊಯ್ಯಿರಿ", "ಹೆಚ್ಚುವರಿ ಬಟ್ಟೆ ತೆಗೆದುಹಾಕಿ", "ಒದ್ದೆ ಬಟ್ಟೆಯಿಂದ ತಂಪಾಗಿಸಿ", "ಗೊಂದಲ ಅಥವಾ ಪ್ರಜ್ಞಾಹೀನತೆ ಇದ್ದರೆ ವೈದ್ಯಕೀಯ ಸಹಾಯಕ್ಕೆ ಕರೆ ಮಾಡಿ"],
+    "dos_en": ["Give small sips of water if conscious", "Fan the person"],
+    "dos_kn": ["ಪ್ರಜ್ಞೆ ಇದ್ದರೆ ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ ನೀರು ಕೊಡಿ", "ಗಾಳಿ ಬೀಸಿ"],
+    "donts_en": ["Do not give alcohol", "Do not ignore high fever"],
+    "donts_kn": ["ಮದ್ಯ ಕೊಡಬೇಡಿ", "ಹೆಚ್ಚು ಜ್ವರವನ್ನು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ"]
+  },
+  {
+    "id": 10,
+    "name_en": "Animal Dog Bite",
+    "name_kn": "ನಾಯಿ / ಪ್ರಾಣಿ ಕಚ್ಚು",
+    "steps_en": ["Wash wound with soap and water", "Apply clean dressing", "Go to hospital for rabies vaccine", "Report if animal is stray"],
+    "steps_kn": ["ಗಾಯವನ್ನು ಸಾಬೂನು ಮತ್ತು ನೀರಿನಿಂದ ತೊಳೆಯಿರಿ", "ಸ್ವಚ್ಛ ಡ್ರೆಸ್ಸಿಂಗ್ ಹಾಕಿ", "ರೇಬಿಸ್ ಲಸಿಕೆಗಾಗಿ ಆಸ್ಪತ್ರೆಗೆ ಹೋಗಿ", "ಪ್ರಾಣಿ ಬೀದಿ ಪ್ರಾಣಿಯಾದರೆ ತಿಳಿಸಿ"],
+    "dos_en": ["Wash for several minutes", "Seek vaccine advice"],
+    "dos_kn": ["ಕೆಲವು ನಿಮಿಷ ಚೆನ್ನಾಗಿ ತೊಳೆಯಿರಿ", "ಲಸಿಕೆ ಸಲಹೆ ಪಡೆಯಿರಿ"],
+    "donts_en": ["Do not ignore small bites", "Do not apply irritants"],
+    "donts_kn": ["ಸಣ್ಣ ಕಚ್ಚನ್ನೂ ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ", "ಕಿರಿಕಿರಿ ಮಾಡುವ ವಸ್ತು ಹಚ್ಚಬೇಡಿ"]
+  },
+  {
+    "id": 11,
+    "name_en": "Electric Shock",
+    "name_kn": "ವಿದ್ಯುತ್ ಶಾಕ್",
+    "steps_en": ["Switch off power source", "Do not touch person directly", "Use dry non-metal object to separate", "Call emergency help"],
+    "steps_kn": ["ವಿದ್ಯುತ್ ಮೂಲವನ್ನು ಆಫ್ ಮಾಡಿ", "ವ್ಯಕ್ತಿಯನ್ನು ನೇರವಾಗಿ ಮುಟ್ಟಬೇಡಿ", "ಒಣ ಲೋಹವಲ್ಲದ ವಸ್ತುವಿನಿಂದ ದೂರ ಮಾಡಿ", "ತುರ್ತು ಸಹಾಯಕ್ಕೆ ಕರೆ ಮಾಡಿ"],
+    "dos_en": ["Check breathing after safe", "Call 108"],
+    "dos_kn": ["ಸುರಕ್ಷಿತವಾದ ನಂತರ ಉಸಿರಾಟ ಪರಿಶೀಲಿಸಿ", "108 ಗೆ ಕರೆ ಮಾಡಿ"],
+    "donts_en": ["Do not use wet hands", "Do not go near live wire"],
+    "donts_kn": ["ಒದ್ದೆ ಕೈಗಳಿಂದ ಮುಟ್ಟಬೇಡಿ", "ವಿದ್ಯುತ್ ತಂತಿಯ ಹತ್ತಿರ ಹೋಗಬೇಡಿ"]
+  },
+  {
+    "id": 12,
+    "name_en": "Poisoning",
+    "name_kn": "ವಿಷ ಸೇವನೆ",
+    "steps_en": ["Call emergency help", "Identify poison if possible", "Keep container for doctor", "Do not force vomiting"],
+    "steps_kn": ["ತುರ್ತು ಸಹಾಯಕ್ಕೆ ಕರೆ ಮಾಡಿ", "ಸಾಧ್ಯವಾದರೆ ವಿಷವನ್ನು ಗುರುತಿಸಿ", "ಡಾಕ್ಟರ್‌ಗೆ ತೋರಿಸಲು ಬಾಟಲಿ/ಪ್ಯಾಕೆಟ್ ಇಡಿ", "ವಾಂತಿ ಮಾಡಿಸಲು ಒತ್ತಾಯಿಸಬೇಡಿ"],
+    "dos_en": ["Keep person still", "Follow doctor advice"],
+    "dos_kn": ["ವ್ಯಕ್ತಿಯನ್ನು ಶಾಂತವಾಗಿಡಿ", "ವೈದ್ಯರ ಸಲಹೆ ಅನುಸರಿಸಿ"],
+    "donts_en": ["Do not give food or drink", "Do not delay help"],
+    "donts_kn": ["ಆಹಾರ ಅಥವಾ ಪಾನೀಯ ಕೊಡಬೇಡಿ", "ಸಹಾಯವನ್ನು ವಿಳಂಬಿಸಬೇಡಿ"]
+  },
+  {
+    "id": 13,
+    "name_en": "Near Drowning",
+    "name_kn": "ಮುಳುಗುವ ಅಪಾಯ",
+    "steps_en": ["Remove person from water safely", "Check breathing", "Call 108", "Start CPR if trained and not breathing"],
+    "steps_kn": ["ವ್ಯಕ್ತಿಯನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ನೀರಿನಿಂದ ಹೊರತೆಗೆದು", "ಉಸಿರಾಟ ಪರಿಶೀಲಿಸಿ", "108 ಗೆ ಕರೆ ಮಾಡಿ", "ಉಸಿರಾಟ ಇಲ್ಲದಿದ್ದರೆ ತರಬೇತಿ ಇದ್ದರೆ CPR ಆರಂಭಿಸಿ"],
+    "dos_en": ["Keep person warm", "Turn to side if vomiting"],
+    "dos_kn": ["ವ್ಯಕ್ತಿಯನ್ನು ಬೆಚ್ಚಗಿಡಿ", "ವಾಂತಿ ಇದ್ದರೆ ಬದಿಗೆ ತಿರುಗಿಸಿ"],
+    "donts_en": ["Do not shake person", "Do not delay emergency call"],
+    "donts_kn": ["ವ್ಯಕ್ತಿಯನ್ನು ಅಲುಗಾಡಿಸಬೇಡಿ", "ತುರ್ತು ಕರೆ ವಿಳಂಬಿಸಬೇಡಿ"]
+  },
+  {
+    "id": 14,
+    "name_en": "Eye Injury",
+    "name_kn": "ಕಣ್ಣಿನ ಗಾಯ",
+    "steps_en": ["Do not rub the eye", "Rinse with clean water if chemical enters", "Cover eye lightly", "Go to hospital"],
+    "steps_kn": ["ಕಣ್ಣು ಒರೆಸಬೇಡಿ", "ರಾಸಾಯನಿಕ ಹೋದರೆ ಸ್ವಚ್ಛ ನೀರಿನಿಂದ ತೊಳೆಯಿರಿ", "ಕಣ್ಣನ್ನು ಸಡಿಲವಾಗಿ ಮುಚ್ಚಿ", "ಆಸ್ಪತ್ರೆಗೆ ಹೋಗಿ"],
+    "dos_en": ["Use clean water for chemicals", "Seek medical care"],
+    "dos_kn": ["ರಾಸಾಯನಿಕಗಳಿಗೆ ಸ್ವಚ್ಛ ನೀರು ಬಳಸಿ", "ವೈದ್ಯಕೀಯ ಸಹಾಯ ಪಡೆಯಿರಿ"],
+    "donts_en": ["Do not remove stuck object", "Do not press the eye"],
+    "donts_kn": ["ಸಿಲುಕಿರುವ ವಸ್ತು ತೆಗೆದುಹಾಕಬೇಡಿ", "ಕಣ್ಣಿಗೆ ಒತ್ತಬೇಡಿ"]
+  },
+  {
+    "id": 15,
+    "name_en": "Head Injury",
+    "name_kn": "ತಲೆ ಗಾಯ",
+    "steps_en": ["Keep person still", "Apply cold pack for swelling", "Watch for vomiting or confusion", "Seek medical help if serious"],
+    "steps_kn": ["ವ್ಯಕ್ತಿಯನ್ನು ಚಲಿಸದಂತೆ ಇರಿಸಿ", "ಊತಕ್ಕೆ ತಂಪು ಪ್ಯಾಕ್ ಇಡಿ", "ವಾಂತಿ ಅಥವಾ ಗೊಂದಲ ಗಮನಿಸಿ", "ಗಂಭೀರವಾಗಿದ್ದರೆ ವೈದ್ಯಕೀಯ ಸಹಾಯ ಪಡೆಯಿರಿ"],
+    "dos_en": ["Keep head slightly raised", "Monitor consciousness"],
+    "dos_kn": ["ತಲೆಯನ್ನು ಸ್ವಲ್ಪ ಎತ್ತಿ ಇರಿಸಿ", "ಪ್ರಜ್ಞೆ ಗಮನಿಸಿ"],
+    "donts_en": ["Do not give pain tablets without advice", "Do not let person sleep if symptoms worsen"],
+    "donts_kn": ["ಸಲಹೆಯಿಲ್ಲದೆ ನೋವು ಮಾತ್ರೆ ಕೊಡಬೇಡಿ", "ಲಕ್ಷಣಗಳು ಹೆಚ್ಚಾದರೆ ಮಲಗಲು ಬಿಡಬೇಡಿ"]
+  },
+  {
+    "id": 16,
+    "name_en": "Diabetic Emergency",
+    "name_kn": "ಮಧುಮೇಹ ತುರ್ತುಸ್ಥಿತಿ",
+    "steps_en": ["If conscious, give sugar or sweet drink", "Let person rest", "Call help if unconscious", "Do not give anything by mouth if unconscious"],
+    "steps_kn": ["ಪ್ರಜ್ಞೆ ಇದ್ದರೆ ಸಕ್ಕರೆ ಅಥವಾ ಸಿಹಿ ಪಾನೀಯ ಕೊಡಿ", "ವ್ಯಕ್ತಿಗೆ ವಿಶ್ರಾಂತಿ ನೀಡಿ", "ಪ್ರಜ್ಞೆ ಇಲ್ಲದಿದ್ದರೆ ಸಹಾಯಕ್ಕೆ ಕರೆ ಮಾಡಿ", "ಪ್ರಜ್ಞೆ ಇಲ್ಲದಿದ್ದರೆ ಬಾಯಿಗೆ ಏನೂ ಕೊಡಬೇಡಿ"],
+    "dos_en": ["Give quick sugar if awake", "Check medical ID if available"],
+    "dos_kn": ["ಎಚ್ಚರದಲ್ಲಿದ್ದರೆ ಬೇಗ ಸಕ್ಕರೆ ಕೊಡಿ", "ಲಭ್ಯವಿದ್ದರೆ ವೈದ್ಯಕೀಯ ಐಡಿ ನೋಡಿ"],
+    "donts_en": ["Do not give insulin yourself", "Do not force food if drowsy"],
+    "donts_kn": ["ನೀವೇ ಇನ್ಸುಲಿನ್ ಕೊಡಬೇಡಿ", "ಮಂಕಾಗಿದ್ದರೆ ಬಲವಂತವಾಗಿ ಆಹಾರ ಕೊಡಬೇಡಿ"]
+  },
+  {
+    "id": 17,
+    "name_en": "Asthma Attack",
+    "name_kn": "ಅಸ್ತಮಾ ದಾಳಿ",
+    "steps_en": ["Help person sit upright", "Help use inhaler", "Keep them calm", "Call 108 if breathing does not improve"],
+    "steps_kn": ["ವ್ಯಕ್ತಿಯನ್ನು ನೇರವಾಗಿ ಕುಳ್ಳಿರಿಸಿ", "ಇನ್ಹೇಲರ್ ಬಳಸಲು ಸಹಾಯ ಮಾಡಿ", "ಶಾಂತವಾಗಿಡಿ", "ಉಸಿರಾಟ ಸುಧಾರಿಸದಿದ್ದರೆ 108 ಗೆ ಕರೆ ಮಾಡಿ"],
+    "dos_en": ["Loosen tight clothing", "Use prescribed inhaler"],
+    "dos_kn": ["ಬಿಗಿಯಾದ ಬಟ್ಟೆ ಸಡಿಲಿಸಿ", "ವೈದ್ಯರು ಕೊಟ್ಟ ಇನ್ಹೇಲರ್ ಬಳಸಿ"],
+    "donts_en": ["Do not make person lie flat", "Do not crowd around"],
+    "donts_kn": ["ವ್ಯಕ್ತಿಯನ್ನು ಸಮತಟ್ಟಾಗಿ ಮಲಗಿಸಬೇಡಿ", "ಸುತ್ತಲು ಗುಂಪಾಗಬೇಡಿ"]
+  },
+  {
+    "id": 18,
+    "name_en": "Allergic Reaction",
+    "name_kn": "ಅಲರ್ಜಿ ಪ್ರತಿಕ್ರಿಯೆ",
+    "steps_en": ["Remove allergen if known", "Check breathing", "Use prescribed medicine if available", "Call 108 for swelling or breathing trouble"],
+    "steps_kn": ["ತಿಳಿದಿದ್ದರೆ ಅಲರ್ಜಿ ಕಾರಣವನ್ನು ದೂರ ಮಾಡಿ", "ಉಸಿರಾಟ ಪರಿಶೀಲಿಸಿ", "ಲಭ್ಯವಿದ್ದರೆ ವೈದ್ಯರು ಕೊಟ್ಟ ಔಷಧ ಬಳಸಿ", "ಊತ ಅಥವಾ ಉಸಿರಾಟ ತೊಂದರೆ ಇದ್ದರೆ 108 ಗೆ ಕರೆ ಮಾಡಿ"],
+    "dos_en": ["Keep person calm", "Watch for swelling"],
+    "dos_kn": ["ವ್ಯಕ್ತಿಯನ್ನು ಶಾಂತವಾಗಿಡಿ", "ಊತ ಗಮನಿಸಿ"],
+    "donts_en": ["Do not ignore breathing difficulty", "Do not give unknown medicine"],
+    "donts_kn": ["ಉಸಿರಾಟ ತೊಂದರೆಯನ್ನು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ", "ತಿಳಿಯದ ಔಷಧ ಕೊಡಬೇಡಿ"]
+  },
+  {
+    "id": 19,
+    "name_en": "Choking Infant",
+    "name_kn": "ಶಿಶುವಿನಲ್ಲಿ ಉಸಿರುಗಟ್ಟಿಕೆ",
+    "steps_en": ["Place infant face down on forearm", "Give 5 gentle back blows", "Give 5 chest thrusts if needed", "Call emergency help"],
+    "steps_kn": ["ಶಿಶುವನ್ನು ಕೈಮೇಲೆ ಮುಖ ಕೆಳಗೆ ಇಡಿ", "ಬೆನ್ನಿಗೆ 5 ಸೌಮ್ಯ ಹೊಡೆತ ನೀಡಿ", "ಅಗತ್ಯವಿದ್ದರೆ 5 ಎದೆ ಒತ್ತುವಿಕೆ ಮಾಡಿ", "ತುರ್ತು ಸಹಾಯಕ್ಕೆ ಕರೆ ಮಾಡಿ"],
+    "dos_en": ["Support head and neck", "Act quickly but gently"],
+    "dos_kn": ["ತಲೆ ಮತ್ತು ಕುತ್ತಿಗೆಗೆ ಬೆಂಬಲ ನೀಡಿ", "ವೇಗವಾಗಿ ಆದರೆ ಸೌಮ್ಯವಾಗಿ ಮಾಡಿ"],
+    "donts_en": ["Do not shake baby", "Do not put fingers blindly in mouth"],
+    "donts_kn": ["ಮಗುವನ್ನು ಅಲುಗಾಡಿಸಬೇಡಿ", "ಬಾಯಿಗೆ ಅಜಾಗರೂಕವಾಗಿ ಬೆರಳು ಹಾಕಬೇಡಿ"]
+  },
+  {
+    "id": 20,
+    "name_en": "Sprain",
+    "name_kn": "ಮುರಿಗೆ / ಸ್ನಾಯು ಗಾಯ",
+    "steps_en": ["Rest the injured part", "Apply ice wrapped in cloth", "Compress with bandage", "Elevate the injured area"],
+    "steps_kn": ["ಗಾಯಗೊಂಡ ಭಾಗಕ್ಕೆ ವಿಶ್ರಾಂತಿ ನೀಡಿ", "ಬಟ್ಟೆಯಲ್ಲಿ ಸುತ್ತಿದ ಐಸ್ ಇಡಿ", "ಬ್ಯಾಂಡೇಜ್‌ನಿಂದ ಸಡಿಲವಾಗಿ ಕಟ್ಟಿ", "ಗಾಯಗೊಂಡ ಭಾಗವನ್ನು ಮೇಲಕ್ಕೆ ಎತ್ತಿ"],
+    "dos_en": ["Use RICE method", "Seek help if severe pain"],
+    "dos_kn": ["RICE ವಿಧಾನ ಬಳಸಿ", "ನೋವು ಹೆಚ್ಚು ಇದ್ದರೆ ಸಹಾಯ ಪಡೆಯಿರಿ"],
+    "donts_en": ["Do not massage immediately", "Do not continue playing or walking"],
+    "donts_kn": ["ತಕ್ಷಣ ಮಸಾಜ್ ಮಾಡಬೇಡಿ", "ಆಟ ಅಥವಾ ನಡೆಯುವುದನ್ನು ಮುಂದುವರಿಸಬೇಡಿ"]
+  }
+]
